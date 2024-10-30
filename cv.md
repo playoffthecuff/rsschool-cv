@@ -11,4 +11,10 @@
 - **important for me:** advance the ==Web== to empower humanity
 </details>
 
+<details>
+  <summary>### Skills</summary>
+- Objective-C
+- Computer network
+</details>
+
 [^1]: call after five
