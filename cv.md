@@ -29,4 +29,11 @@
 ```
 </details>
 
+<details>
+  <summary>### Experience</summary>
+- Nexus development
+- W3C httpd development
+- Curl development participation
+</details>
+
 [^1]: call after five
