@@ -17,4 +17,16 @@
 - Computer network
 </details>
 
+<details>
+  <summary>### Code examples</summary>
+```js
+(function repeat() {
+    eat()
+    sleep()
+    code()
+    repeat()
+})()
+```
+</details>
+
 [^1]: call after five
