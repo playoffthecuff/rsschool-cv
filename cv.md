@@ -36,4 +36,9 @@
 - Curl development participation
 </details>
 
+<details>
+  <summary>### Education</summary>
+- The Queen's College
+</details>
+
 [^1]: call after five
