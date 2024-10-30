@@ -6,82 +6,58 @@
 
 <details>
   <summary>
-  
-### Summary
-
-</summary>
-
-- **goal:** create internet
-- **wishes:**  connectivity with no strings attached
-- **important for me:** advance the ==Web== to empower humanity
-
-</details>
-
-<details>
-  <summary>
-  
-### Skills
-
-</summary>
-
-- Objective-C
-- Computer network
+    <b>Summary</b>
+  </summary>
+  <ul>
+    goal: <i>create internet</i>
+    wishes: <i>connectivity with no strings attached</i>
+    important for me: <i>advance the Web to empower humanity</i>
+  </ul>
 
 </details>
 
 <details>
   <summary>
-  
-### Code examples
-
-</summary>
-
-```js
-(function repeat() {
-    eat()
-    sleep()
-    code()
-    repeat()
-})()
-```
+    <b>Skills</b>
+  </summary>
+  <ul>
+    <li>Objective-C</li>
+    <li>Computer network</li>
+  </ul>
 
 </details>
 
 <details>
   <summary>
-  
-### Experience
-
-</summary>
-
-- Nexus development
-- W3C httpd development
-- Curl development participation
-
+    <b>Code examples</b>
+  </summary>
+  <pre>
+  (function repeat() {
+      eat()
+      sleep()
+      code()
+      repeat()
+  })()
+  </pre>
 </details>
 
 <details>
-
-  <summary>
-
-### Education
-
-</summary>
-
-- The Queen's College
-
+  <summary><b>Experience</b></summary>
+  <ul>
+    <li>Nexus development</li>
+    <li>W3C httpd development</li>
+    <li>Curl development participation</li>
+  </ul>
 </details>
 
 <details>
+  <summary><b>Education</b></summary>
+  <ul><li>The Queen's College</li></ul>
+</details>
 
-  <summary>
-
-### English
-
-</summary>
-
-- native
-
+<details>
+  <summary><b>English</b></summary>
+  <ul><li>native</li></ul>
 </details>
 
 [^1]: call after five
