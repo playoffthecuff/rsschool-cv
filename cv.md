@@ -9,11 +9,11 @@
     <b>Summary</b>
   </summary>
   <ul>
-    goal: <i>create internet</i>
-    wishes: <i>connectivity with no strings attached</i>
-    important for me: <i>advance the Web to empower humanity</i>
+    <li><b>goal:</b> <i>create internet</i></li>
+    <li><b>wishes:</b> <i>connectivity with no strings attached</i></li>
+    <li><b>important for me:</b> <i>advance the Web to empower humanity</i></li>
   </ul>
-
+<!--  -->
 </details>
 
 <details>
