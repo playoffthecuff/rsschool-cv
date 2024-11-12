@@ -1,0 +1,193 @@
+html {
+  height: 100%;
+  overflow-y: scroll;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #000;
+  color: #bbb;
+  margin: 0;
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+header {
+  padding-bottom: 8px;
+}
+
+.fit-center {
+  width: 320px;
+  margin: 0 auto;
+  position: relative;
+}
+
+hr {
+  margin: 0;
+  border-block-color: #888;
+  position: absolute;
+  width: 85%;
+}
+
+main {
+  margin: 64px auto 32px;
+  width: 320px;
+}
+
+a {
+  text-decoration: none;
+}
+
+pre {
+  background-color: #222;
+  padding: 8px;
+  border-radius: 8px;
+  width: fit-content;
+}
+
+#fn1 {
+  font-size: 12px;
+  font-weight: bold;;
+}
+
+.footnote {
+  font-size: 10px;
+  font-weight: bold;
+}
+
+#fnref1 {
+  margin-right: 3px;
+}
+
+[href="tel:+12137483647"] {
+  margin-right: -8px;
+}
+
+img {
+  height: 32px;
+}
+
+nav {
+  display: inline-block;
+}
+
+footer {
+  padding: 16px;
+}
+
+.top-shadow {
+  box-shadow: 0px -4px 8px 0px rgba(255, 255, 255, 0.2);
+}
+
+.bottom-shadow {
+  box-shadow: 0px 4px 8px 0px rgba(255, 255, 255, 0.2);
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.no-dots {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    display: inline;
+  }
+}
+
+h1 {
+  font-size: 24px;
+  margin: 12px 0;
+}
+
+h2 {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 8px;
+}
+
+h3 {
+  font-size: 16px;
+  margin-top: 16px;
+  margin-bottom: 8px;
+}
+
+.avatar {
+  width: 136px;
+  height: 136px;
+  border-radius: 50%;
+  float: right;
+  position: relative;
+  z-index: 1;
+}
+
+details {
+  transition: height 0.64s;
+
+  > p {
+    padding-left: 40px;
+    transition: transform 0.64s;
+    transform-origin: top;
+  }
+
+  > ul, pre {
+    transition: transform 0.64s;
+    transform-origin: top;
+  }
+}
+
+details:not([open]) {
+  height: 24px;
+
+  > ul, p, pre {
+    transform: scaleY(0);
+  }
+}
+
+details[open] {
+  > ul, p, pre {
+    transform: scaleY(1);
+  }
+}
+
+details:nth-of-type(1)[open] {
+  height: 154px;
+}
+
+details:nth-of-type(2)[open] {
+  height: 94px;
+}
+
+details:nth-of-type(3)[open] {
+  height: 158px;
+}
+
+details:nth-of-type(4)[open] {
+  height: 94px;
+}
+
+details:nth-of-type(5)[open] {
+  height: 76px;
+}
+
+details:nth-of-type(6)[open] {
+  height: 76px;
+}
+
+.contacts {
+  display: inline-block;
+}
